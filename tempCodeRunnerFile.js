@@ -1,0 +1,1 @@
+grantAccessButton.addEventListener("click", getLocation);
